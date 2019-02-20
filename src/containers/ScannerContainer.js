@@ -14,12 +14,12 @@ class ScannerContainer extends Component {
     handleClick = ev => {
         const { isScanning } = this.state;
         this.setState({
-            isScanning: !isScanning
+            isScanning: !isScanning,
+            code: null
         })
     }
 
     getCode = result => {
-        console.log(result.codeResult.code)
         this.setState({
             code: result.codeResult.code,
             isScanning: false,

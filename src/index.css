@@ -1,9 +1,9 @@
-#scanner {
+#interactive {
     position: relative;
 
 }
 
-#scanner video {
+#interactive video {
     max-width: 640px;
     width: 100%;
 }
