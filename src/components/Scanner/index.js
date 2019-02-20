@@ -64,6 +64,8 @@ class Scanner extends Component {
                         }
                     }
                 });
+        }).catch(err => {
+            alert(`here error ${err}`)
         })
     }
 
