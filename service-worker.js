@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-barcode/precache-manifest.daa868affafc7ab3643960d8898218d7.js"
+  "/react-barcode/precache-manifest.d1369674193c2d9bfd56a17a422182fd.js"
 );
 
 workbox.clientsClaim();

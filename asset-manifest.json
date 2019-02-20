@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-barcode/static/css/main.6dd3e82b.chunk.css",
-  "main.js": "/react-barcode/static/js/main.647405d7.chunk.js",
-  "main.js.map": "/react-barcode/static/js/main.647405d7.chunk.js.map",
+  "main.css": "/react-barcode/static/css/main.74b55c91.chunk.css",
+  "main.js": "/react-barcode/static/js/main.0c61c5af.chunk.js",
+  "main.js.map": "/react-barcode/static/js/main.0c61c5af.chunk.js.map",
   "runtime~main.js": "/react-barcode/static/js/runtime~main.650ab8a2.js",
   "runtime~main.js.map": "/react-barcode/static/js/runtime~main.650ab8a2.js.map",
   "static/js/2.137ecc98.chunk.js": "/react-barcode/static/js/2.137ecc98.chunk.js",
   "static/js/2.137ecc98.chunk.js.map": "/react-barcode/static/js/2.137ecc98.chunk.js.map",
   "index.html": "/react-barcode/index.html",
-  "precache-manifest.daa868affafc7ab3643960d8898218d7.js": "/react-barcode/precache-manifest.daa868affafc7ab3643960d8898218d7.js",
+  "precache-manifest.d1369674193c2d9bfd56a17a422182fd.js": "/react-barcode/precache-manifest.d1369674193c2d9bfd56a17a422182fd.js",
   "service-worker.js": "/react-barcode/service-worker.js",
-  "static/css/main.6dd3e82b.chunk.css.map": "/react-barcode/static/css/main.6dd3e82b.chunk.css.map"
+  "static/css/main.74b55c91.chunk.css.map": "/react-barcode/static/css/main.74b55c91.chunk.css.map"
 }

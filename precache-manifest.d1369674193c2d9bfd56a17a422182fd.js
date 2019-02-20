@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/react-barcode/static/js/runtime~main.650ab8a2.js"
   },
   {
-    "revision": "647405d7fd1f61395eb7",
-    "url": "/react-barcode/static/js/main.647405d7.chunk.js"
+    "revision": "0c61c5afcd5dc033e6a2",
+    "url": "/react-barcode/static/js/main.0c61c5af.chunk.js"
   },
   {
     "revision": "137ecc98fb3bf0078858",
     "url": "/react-barcode/static/js/2.137ecc98.chunk.js"
   },
   {
-    "revision": "647405d7fd1f61395eb7",
-    "url": "/react-barcode/static/css/main.6dd3e82b.chunk.css"
+    "revision": "0c61c5afcd5dc033e6a2",
+    "url": "/react-barcode/static/css/main.74b55c91.chunk.css"
   },
   {
-    "revision": "41563021cbac835d73f7e3ffa4754858",
+    "revision": "aa46b5e571307e2579640a4d7597e301",
     "url": "/react-barcode/index.html"
   }
 ];
