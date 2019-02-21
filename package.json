@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://turchak.github.io/react-barcode",
   "dependencies": {
+    "node-sass": "^4.11.0",
     "quagga": "^0.12.1",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",

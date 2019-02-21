@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';
 import ScannerContainer from './containers/ScannerContainer';
-import './index.css';
+import './index.sass';
 
 ReactDOM.render(<ScannerContainer />, document.getElementById('root'));
 
