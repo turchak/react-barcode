@@ -30,7 +30,7 @@ class ScannerContainer extends Component {
         const  { isScanning, code } = this.state;
         return (
             <Fragment>
-                <button type="button" onClick={this.handleClick}>{ isScanning ? 'Stop' : 'Scan' }</button>
+                <button type="button" className="toggle-button" onClick={this.handleClick}>{isScanning ? 'Stop' : 'Scan'}</button>
                 { code ? <Result code={code} /> : null }
                 { isScanning ? <Scanner getCode={this.getCode} /> : null }
             </Fragment>    
